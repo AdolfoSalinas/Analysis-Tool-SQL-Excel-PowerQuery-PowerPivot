@@ -40,4 +40,3 @@ Conduct analysis
 
 
 
-# Document avialable upon request. The file size exeeds Githubs 25MB limit.
